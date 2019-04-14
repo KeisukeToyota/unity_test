@@ -1,5 +1,5 @@
 public class Hello {
 	public static void Main() {
-		System.Console.WrirteLine("‚±‚ñ");
+		System.Console.WrirteLine("ã“ã‚“ã«ã¡ã¯");
 	}
 }
