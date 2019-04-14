@@ -1,5 +1,5 @@
 public class Hello {
 	public static void Main() {
-		System.Console.WrirteLine("こんにちは");
+		System.Console.WrirteLine("こんばんわ");
 	}
 }
